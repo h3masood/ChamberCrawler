@@ -1,9 +1,10 @@
 ###############ChamberCrawler3000################
 
-Project authors: Humble Masood & Alber Zhang
+Project authors: Humble Masood & Albert Zhang
 Date of production: April 4, 2016
 
 ################################################
+
 
 -> About the game
 
