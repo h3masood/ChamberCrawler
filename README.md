@@ -1,9 +1,11 @@
-###############ChamberCrawler3000################
+**************ChamberCrawler3000*************
 
 Project authors: Humble Masood & Albert Zhang
+
 Date of production: April 4, 2016
 
-################################################
+
+**********************************************
 
 
 -> About the game
@@ -33,8 +35,8 @@ Valid directions
 
 Commands:
 
-1. u <direction> use the potion or pickup the treasure indicated by the direction parameter
-2. a <direction>: attack the enermy in the specified direction. For the samurai and the knight,
+1. u [direction]: use the potion or pickup the treasure indicated by the direction parameter
+2. a [direction]: attack the enermy in the specified direction. For the samurai and the knight,
 	the enemy must be 1 square away(in any direction). For the wizard there must be enemy along the
    direction of attack up until boundary of the chamber.
 3. k(night), w(izard), s(amurai): specifies the type of class player wants to be when staring the game
